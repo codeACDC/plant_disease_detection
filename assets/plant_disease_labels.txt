@@ -1,30 +1,30 @@
-Лист яблони саб (заболевание)
-Лист яблони
-Лист яблони ржавчины (заболевание)
-Лист перца
-Пятнистость листьев перца
-Лист голубики
-Лист вишни
-Серая пятнистость листьев кукурузы
-Опалесценция листьев кукурузы
-Лист кукурузы ржавчины (заболевание)
-Лист персика
-Лист картофеля
-Ранняя заболеваемость листьев картофеля
-Поздняя заболеваемость листьев картофеля
-Лист малины
-Лист сои
-Лист сои
-Лист кабачка, пораженный мучнистой росой
-Лист клубники
-Ранняя заболеваемость листьев помидора
-Пятнистость листьев помидора Септории
-Лист помидора
-Бактериальное поражение листьев помидора
-Поздняя заболеваемость листьев помидора
-Мозаичный вирус листьев помидора
-Желтый вирус листьев помидора
-Лист помидора плесени
-Лист помидора, пораженный паутинными клещами
-Лист винограда
-Лист винограда с черной гнилью
+Apple Scab Leaf
+Apple leaf
+Apple rust leaf
+Bell_pepper leaf
+Bell_pepper leaf spot
+Blueberry leaf
+Cherry leaf
+Corn Gray leaf spot
+Corn leaf blight
+Corn rust leaf
+Peach leaf
+Potato leaf
+Potato leaf early blight
+Potato leaf late blight
+Raspberry leaf
+Soyabean leaf
+Soybean leaf
+Squash Powdery mildew leaf
+Strawberry leaf
+Tomato Early blight leaf
+Tomato Septoria leaf spot
+Tomato leaf
+Tomato leaf bacterial spot
+Tomato leaf late blight
+Tomato leaf mosaic virus
+Tomato leaf yellow virus
+Tomato mold leaf
+Tomato two spotted spider mites leaf
+grape leaf
+grape leaf black rot

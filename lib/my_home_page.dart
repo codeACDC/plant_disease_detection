@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 alignment: Alignment.center,
               ),
             ),
-            Text('Выберите ресурс для загрузки изображения',
+            Text('Choose image source',
                 textAlign: TextAlign.center,
                 style:
                     DefaultTextStyle.of(context).style.copyWith(fontSize: 20.sp)
